@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SthaShyam
+- 👋 Hi, I’m @ShyamStha
 - 👀 I’m interested in developing program for solving real life problems.
 - 🌱 I’m currently learning ML programming and implementing it for automation.
 - 💞️ I’m looking to collaborate with newbies and learn and grow stronger.
