@@ -1,3 +1,9 @@
+### Hi there, I am Shyam.  
+### I like to explore tech.
+### Here to share What I'm working on! @sparkle 
+
+
+
 - 👋 Hi, I’m @ShyamStha
 - 👀 I’m interested in developing program for solving real life problems.
 - 🌱 I’m currently learning ML programming and implementing it for automation.
