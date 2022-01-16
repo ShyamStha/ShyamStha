@@ -1,18 +1,17 @@
-### Hi there, I am Shyam.  
-### I like to explore tech.
-### Here to share What I'm working on! @sparkle 
+### Hello there, I am 👏
+# Shyam Das Shrestha.😊  
+## I like to explore tech. 🚀🚀🚀
+### Here to share What I'm working on! ✨✨✨
 
 
-
-- 👋 Hi, I’m @ShyamStha
+- 👋 Here, @ShyamStha
 - 👀 I’m interested in developing program for solving real life problems.
 - 🌱 I’m currently learning ML programming and implementing it for automation.
-- 💞️ I’m looking to collaborate with newbies and learn and grow stronger.
+- 🎉 I love breaking stuffs and learn.
+- 📣 I talk about: AWS | My SQL | Python | Github | React
+- 💞️ I’m looking for oppourtunities to learn and grow stronger as Software Engineer Trainee.
 - 📫 How to reach me ... You can contact me at:
-Phone: 98600068518
-email: shyamstha055@gmail.com
+- 📞 +977 98600068518
+- 📧 shyamstha055@gmail.com
+- 🧑 https://www.linkedin.com/in/sthashyam/
 
-<!---
-SthaShyam/SthaShyam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
