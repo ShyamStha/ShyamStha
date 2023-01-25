@@ -1,5 +1,5 @@
 ### Hello there, I am 👏
-# Shyam Das Shrestha.😊  
+# Shyam Shrestha.😊  
 ## I like to explore tech. 🚀🚀🚀
 ### Here to share What I'm working on! ✨✨✨
 
