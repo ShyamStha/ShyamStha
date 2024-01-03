@@ -4,7 +4,7 @@
 ### Here to share What I'm working on! ✨✨✨
 
 
-- 👋 Here, Shyam Das Shrestha.
+- 👋 Here, Shyam Shrestha.
 - 👀 I’m interested in developing program for solving real life problems.
 - 🌱 I’m currently learning ML programming and implementing it for automation.
 - 🎉 I love breaking stuffs and learn.
