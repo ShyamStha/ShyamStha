@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning ML programming and implementing it for automation.
 - 🎉 I love breaking stuffs and learn.
 - 📣 I talk about: AWS | My SQL | Python | Github | React
-- 💞️ I’m looking for oppourtunities to learn and grow stronger as Software Engineer Trainee.
+- 💞️ I’m looking for oppourtunities to learn and grow together.
 - 📫 How to reach me ... You can contact me at:
 - 📞 +977 98600068518
 - 📧 shyamstha055@gmail.com
