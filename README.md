@@ -14,6 +14,6 @@
 - 📞 +977 98600068518
 - 📧 shyamstha055@gmail.com
 - 🧑 https://www.linkedin.com/in/sthashyam/
-- 🖼 Personal Website: https://shyamstha.github.io
+- 🖼 Personal Website: [https://shyamstha.github.io](https://shyamstha.com.np/)
 
 <img src="https://github-readme-stats.vercel.app/api?username=ShyamStha&&show_icons=true&title_color=#ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=000000">
